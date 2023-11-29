@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/vasudeva009/predicting-coupon-redemption/
+https://huggingface.co/spaces/qothi/milestone_2
